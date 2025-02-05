@@ -1,17 +1,17 @@
 <script setup>
-import WhatsappChat from "../components/WhatsappChat.vue"
-import WhatsappContact from "@/components/contact/WhatsappContact.vue"
+import TelegramChat from "../components/TelegramChat.vue"
+import TelegramContact from "@/components/contact/TelegramContact.vue"
 </script>
 
 <template>
   <div class="flex h-screen">
     <!-- Komponen Kontak (Kanan) -->
     <div class="bg-white w-1/5">
-      <WhatsappContact />
+      <TelegramContact />
     </div>
     <!-- Komponen Chat (Kiri) -->
     <div class="bg-gray-100 flex-auto">
-      <WhatsappChat />
+      <TelegramChat />
     </div>
 
   </div>

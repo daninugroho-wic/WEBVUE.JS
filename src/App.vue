@@ -15,6 +15,8 @@ import { RouterLink, RouterView } from 'vue-router'
     <RouterLink to="/">Home</RouterLink>
     <RouterLink to="/about">About</RouterLink>
     <RouterLink to="/whatsapp">Whatsapp</RouterLink>
+    <RouterLink to="/instagram">Instagram</RouterLink>
+    <RouterLink to="/telegram">Telegram</RouterLink>
   </nav>
 </div>
 </div>

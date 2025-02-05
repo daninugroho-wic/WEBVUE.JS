@@ -25,6 +25,22 @@ const router = createRouter({
       // which is lazy-loaded when the route is visited.
       component: () => import('../views/WhatsappView.vue'),
     },
+    {
+      path: '/telegram',
+      name: 'telegram',
+      // route level code-splitting
+      // this generates a separate chunk (About.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import('../views/TelegramView.vue'),
+    },
+    {
+      path: '/instagram',
+      name: 'instagram',
+      // route level code-splitting
+      // this generates a separate chunk (About.[hash].js) for this route
+      // which is lazy-loaded when the route is visited.
+      component: () => import('../views/InstagramView.vue'),
+    },
   ],
 })
 
