@@ -1,10 +1,15 @@
 <template>
+  <header class="text-center font-bold underline">
+    <p>ini header</p>
+  </header>
   <div class="about">
-    <h1>This is an whatsapp page</h1>
     <h1 class="text-3xl font-bold underline">
-    Hello world!
+      This is an whatsapp page
   </h1>
   </div>
+  <footer>
+    <h1>ini footer</h1>
+  </footer>
 </template>
 
 <style>
