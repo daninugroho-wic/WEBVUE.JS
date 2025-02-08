@@ -13,6 +13,5 @@ import TelegramContact from "@/components/contact/TelegramContact.vue"
     <div class="bg-gray-100 flex-auto">
       <TelegramChat />
     </div>
-
   </div>
 </template>

@@ -13,6 +13,5 @@ import WhatsappContact from "@/components/contact/WhatsappContact.vue"
     <div class="bg-gray-100 flex-auto">
       <WhatsappChat />
     </div>
-
   </div>
 </template>

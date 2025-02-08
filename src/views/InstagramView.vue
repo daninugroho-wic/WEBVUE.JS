@@ -13,6 +13,5 @@ import InstagramContact from "@/components/contact/InstagramContact.vue"
     <div class="bg-gray-100 flex-auto">
       <InstagramChat />
     </div>
-
   </div>
 </template>

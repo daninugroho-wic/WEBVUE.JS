@@ -13,7 +13,6 @@ import { RouterLink, RouterView } from 'vue-router'
 
   <nav>
     <RouterLink to="/">Home</RouterLink>
-    <RouterLink to="/about">About</RouterLink>
     <RouterLink to="/whatsapp">Whatsapp</RouterLink>
     <RouterLink to="/instagram">Instagram</RouterLink>
     <RouterLink to="/telegram">Telegram</RouterLink>
