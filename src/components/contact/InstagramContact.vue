@@ -1,5 +1,5 @@
 <template>
-    <div class="h-full w-full bg-white shadow-lg p-4">
+    <div class="h-full w-full bg-red-100 shadow-lg p-4">
       <h2 class="text-lg font-semibold text-gray-700 mb-4">Contact Instagram</h2>
       
       <!-- Daftar Kontak -->
